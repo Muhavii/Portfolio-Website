@@ -110,7 +110,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## 🔗 Live Demo
 
-Check out the live version of my portfolio here: [Your Portfolio Link](https://muhavi.vercel.app/)
+Check out the live version of my portfolio here: [My Website](https://muhavi.vercel.app/)
 
 ---
 
