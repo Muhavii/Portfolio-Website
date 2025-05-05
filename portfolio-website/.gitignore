@@ -22,8 +22,7 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Vendor files (optional, if they can be reinstalled)
-public/iPortfolio-1.0.0/assets/vendor/
+
 
 # Git files
 .git/
